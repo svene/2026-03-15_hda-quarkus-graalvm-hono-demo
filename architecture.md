@@ -44,7 +44,7 @@ project-root/
 │   ├── application.properties       # app.ssr.resource=graaljs/ssr.js
 │   ├── application-dev.properties
 │   ├── db/migration/V1__create_person_table.sql   (Flyway)
-│   └── META-INF/resources/          # bulma.min.css, htmx 4, hyperscript 0.9.93, alpine 3.16.3, main.js, dev.js
+│   └── META-INF/resources/          # css/bulma/1.0.4/bulma.min.css, htmx 4, hyperscript 0.9.93, alpine 3.16.3, main.js, dev.js
 ├── src/main/docker/                 # Quarkus-generated Dockerfile.{jvm,native,native-micro,legacy-jar}
 └── target/classes/graaljs/ssr.js   # esbuild output — a plain classpath resource, not under a served path
 ```
