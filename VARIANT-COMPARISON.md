@@ -1,7 +1,7 @@
 # Quarkus vs Spring Boot twin — remaining differences
 
 - **Q** = `2026-03-15_hda-quarkus-graalvm-hono-demo` (this repo)
-- **SB** = `2026-03-09_hda-springboot-graalvm-hono-demo`
+- **SB** = `2026-03-09_hypermedia-springboot-graalvm-hono-demo`
 
 The two projects demonstrate the same hono/html + GraalVM SSR pattern on two stacks. Their web
 layers have been converged.
