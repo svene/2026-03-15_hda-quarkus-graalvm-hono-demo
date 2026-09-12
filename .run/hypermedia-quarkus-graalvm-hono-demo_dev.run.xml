@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="hypermedia-quarkus-graalvm-hono-demo_dev" type="QuarkusRunConfiguration" factoryName="QuarkusRunConfiguration">
+    <module name="hypermedia-quarkus-graalvm-hono-demo" />
+    <option name="profile" />
+    <option name="programParameters" />
+    <method v="2" />
+  </configuration>
+</component>
