@@ -1,8 +1,8 @@
-# Architecture: Quarkus + GraalVM + hono/html HDA demo
+# Architecture: Quarkus + GraalVM + hono/html Hypermedia demo
 
 ## Overview
 
-A **Hypermedia-Driven Application (HDA)**: HTML is rendered server-side and the browser swaps in
+A **Hypermedia-Driven Application**: HTML is rendered server-side and the browser swaps in
 fragments with htmx — no SPA, no client-side rendering.
 
 - **Quarkus 3.32.4** (Java 21) — JAX-RS resources (`quarkus-rest`), CDI (`quarkus-arc`), JDBC
