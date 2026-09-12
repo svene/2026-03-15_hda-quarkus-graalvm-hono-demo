@@ -1,4 +1,4 @@
-# ssfe-patterns-quarkus-qute-htmx
+# hypermedia-quarkus-graalvm-hono-demo
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
